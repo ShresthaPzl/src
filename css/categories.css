@@ -1,0 +1,50 @@
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.nav-link:hover{
+    color: black !important;
+    text-decoration: underline;
+  }
+  
+
+.carousel-control-prev-icon {
+    background-color: black;
+}
+
+.card {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-body {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.category-header {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    color: green; 
+    margin-bottom:20px;
+}
+.category-section{
+    background-color: aliceblue;
+}
+
+footer {
+    background: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+  }
